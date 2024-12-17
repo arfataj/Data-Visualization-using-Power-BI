@@ -77,6 +77,8 @@ Wide Variety of Charts: Ensures data is presented in the most suitable and insig
 
 ## Screenshots
 
+Attached are a few screenshots showcasing the various charts. Please check the files to explore the complete project.
+
 ![bar chart](https://github.com/user-attachments/assets/0b4ab085-c0a2-4c4b-b9f4-aeac81d3b90f)
 
 ![Pie and donut chart](https://github.com/user-attachments/assets/08338e3c-6914-4a91-a91c-b33052f411d1)
