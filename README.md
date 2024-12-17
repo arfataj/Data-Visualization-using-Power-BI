@@ -61,7 +61,7 @@ Analyze profit for orders over months.
 
 ## AI Visuals in Power BI
 
-## Key Influencers Visual
+### Key Influencers Visual
 Purpose: Analyze factors influencing profit and discount.
 
 ## Decomposition Tree
