@@ -61,13 +61,13 @@ Analyze profit for orders over months.
 
 ## AI Visuals in Power BI
 
-### Key Influencers Visual
+### Key Influencers Visual:
 Purpose: Analyze factors influencing profit and discount.
 
-## Decomposition Tree
+### Decomposition Tree:
 Purpose: Break down profit based on category and sub-category.
 
-## Q&A Visual
+### Q&A Visual:
 Purpose: Use natural language to answer questions on the data.
 
 ## Key Features
