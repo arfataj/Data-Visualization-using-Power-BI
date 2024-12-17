@@ -77,6 +77,13 @@ Wide Variety of Charts: Ensures data is presented in the most suitable and insig
 
 ## Screenshots
 
+![bar chart](https://github.com/user-attachments/assets/0b4ab085-c0a2-4c4b-b9f4-aeac81d3b90f)
+
+![Pie and donut chart](https://github.com/user-attachments/assets/08338e3c-6914-4a91-a91c-b33052f411d1)
+
+![funnel chart](https://github.com/user-attachments/assets/2fe3dfa7-d8d0-43e0-a87b-dd50ff367b08)
+
+![KPI visual](https://github.com/user-attachments/assets/bcfa63aa-d314-4d1d-a942-be05a85693ff)
 
 ## Future Enhancements
 Add new datasets for deeper business analysis.
