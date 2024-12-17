@@ -7,6 +7,7 @@ This repository showcases a Power BI project where I have used Sales Data and Le
 
 ## Data Sources
 Sales Dataset: Contains information about sales, profit, ship mode, category, region, city, etc.
+
 Lead Dataset: Focuses on customer leads and stages.
 
 ## Visualizations Created
