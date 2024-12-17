@@ -11,52 +11,52 @@ Lead Dataset: Focuses on customer leads and stages.
 
 ## Visualizations Created
 
-## Bar Chart
+### Bar Chart:
 Display sales by city.
 
-## Column Chart
+### Column Chart:
 Show sales by segment and region.
 
-## Pie & Donut Charts
+### Pie & Donut Charts:
 Visualize sales distribution by segment.
 
-## Clustered Column Chart
+### Clustered Column Chart:
 Show sales by category and segment.
 
-## Clustered Bar Chart
+### Clustered Bar Chart:
 Same as the clustered column chart for comparison.
 
-## Line & Area Chart
+### Line & Area Chart:
 Analyze profit trends by ship mode.
 
-## Ribbon Chart
+### Ribbon Chart:
 Highlight sales trends by ship mode and category.
 
-## Line & Stacked Column Chart
+### Line & Stacked Column Chart:
 Display sales and profit by year and segment.
 
-## Line & Clustered Column Chart
+### Line & Clustered Column Chart:
 Show sales and quantity by year and segment.
 
-## Scatter Plot
+### Scatter Plot:
 Analyze the relationship between sales and profit.
 
-## Map Visual
+### Map Visual:
 Geographically display sales by city.
 
-## Table Visual
+### Table Visual:
 Show country, region, and city-level sum of sales and profit.
 
-## Matrix Visual
+### Matrix Visual:
 Display values hierarchically alongside table visuals.
 
-## Funnel Chart
+### Funnel Chart:
 Represent the number of customers at different stages of the sales funnel.
 
-## Gauge Chart
+### Gauge Chart:
 Show sum of profit with min, max, and target values.
 
-## KPI Visual
+### KPI Visual:
 Analyze profit for orders over months.
 
 ## AI Visuals in Power BI
